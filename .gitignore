@@ -1,8 +1,9 @@
 public/app
 public/components
 dist
-server/typings
 app/typings
+server/typings/*
+!server/typings/azure-iothub
 
 # User config
 user-config.json
