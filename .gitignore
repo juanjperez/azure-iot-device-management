@@ -1,0 +1,20 @@
+public/app
+public/components
+dist
+server/typings
+app/typings
+
+# User config
+user-config.json
+
+# Log files
+npm-debug.log
+debug.log
+
+# Node
+node_modules/
+npm-debug.log
+
+# VS Code
+
+.browse.VC.db
