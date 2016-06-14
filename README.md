@@ -1,4 +1,4 @@
-# Azure IoT device management UI microservice
+# Azure IoT device management Sample UI
 
 This repository contains a UX reference implementation that enables device management capabilities for devices registered with an Azure IoT hub. These capabilities include:
 
